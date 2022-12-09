@@ -3,6 +3,7 @@ ru.dest.library.bukkit
 ru.dest.library.command
 ru.dest.library.config
 ru.dest.library.cooldown
+ru.dest.library.devtools
 ru.dest.library.exception
 ru.dest.library.gui
 ru.dest.library.integration
