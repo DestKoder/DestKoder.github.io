@@ -79,7 +79,7 @@ echo "git pull;" >> update.sh;
 echo "sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules;" >> update.sh;
 echo "git submodule sync;" >> update.sh;
 echo "git submodule update --init --recursive;" >> update.sh;
-if [[ -n $COMMIT_MODULES ]]; then
+if [[ -n master ]]; then
     echo "pushd modules;" >> update.sh;
     echo "git checkout $COMMIT_MODULES;" >> update.sh;
     echo "popd;" >> update.sh;
