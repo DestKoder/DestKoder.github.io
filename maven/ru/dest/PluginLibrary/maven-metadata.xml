@@ -3,7 +3,7 @@
   <groupId>ru.dest</groupId>
   <artifactId>PluginLibrary</artifactId>
   <versioning>
-    <release>LATEST</release>
+    <release>1.5-new</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -15,7 +15,8 @@
       <version>1.4</version>
       <version>1.5</version>
       <version>LATEST</version>
+      <version>1.5-new</version>
     </versions>
-    <lastUpdated>20230406062820</lastUpdated>
+    <lastUpdated>20230413150115</lastUpdated>
   </versioning>
 </metadata>
