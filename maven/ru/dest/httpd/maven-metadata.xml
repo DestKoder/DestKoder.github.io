@@ -3,13 +3,14 @@
   <groupId>ru.dest</groupId>
   <artifactId>httpd</artifactId>
   <versioning>
-    <release>1.3</release>
+    <release>1.4</release>
     <versions>
       <version>1.0</version>
       <version>1.1</version>
       <version>1.2</version>
       <version>1.3</version>
+      <version>1.4</version>
     </versions>
-    <lastUpdated>20240326142123</lastUpdated>
+    <lastUpdated>20240326172504</lastUpdated>
   </versioning>
 </metadata>
